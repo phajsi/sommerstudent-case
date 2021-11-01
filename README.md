@@ -59,3 +59,8 @@ Bygger appen i mappen: `build`
 ## Lær mer
 
 Du kan lære mer ved å sjekke ut [Reacts dokumentasjon](https://reactjs.org/).
+
+###Inspirasjon
+I dette prosjekt ble følgende bilde brukt som inspirasjon:
+![pikachu](https://user-images.githubusercontent.com/23497392/139613097-6c76daf0-b7f5-4ee2-9253-d2dd6a1ba7f2.png)
+
