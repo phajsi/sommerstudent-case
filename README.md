@@ -62,5 +62,5 @@ Du kan lære mer ved å sjekke ut [Reacts dokumentasjon](https://reactjs.org/).
 
 ###Inspirasjon
 I dette prosjekt ble følgende bilde brukt som inspirasjon:
-![pikachu](https://user-images.githubusercontent.com/23497392/139613097-6c76daf0-b7f5-4ee2-9253-d2dd6a1ba7f2.png)
+![pikachu](https://user-images.githubusercontent.com/23497392/139613148-b588a5ca-5c5c-4064-a075-6879e27c149d.png)
 
